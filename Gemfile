@@ -8,6 +8,7 @@ end
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-twitter'
+gem "twitter"
 
 gem 'rails', '~> 5.1.6'
 gem 'sqlite3'
